@@ -26,11 +26,11 @@ app.quickdatabasediagrams.com             |pgAdmin 4
 
 Utilizing the provided information, a table schema was meticulously crafted for each of the six CSV files. This process encompassed defining data types, establishing primary keys, configuring foreign keys, and implementing necessary constraints. The arrangement of the tables was meticulously organized to align with the hierarchy of primary and foreign key relationships.
 
-For a direct view of the detailed schema file, you can access it via the following link: [employees_schema.mssql](https://github.com/alejandro-davila/sql-challenge/blob/d18c47d12b8eb10854a441fb53891f1896296171/employees_schema.mssql).
+For a direct view of the detailed schema file, you can access it via the following link: [employees_schema.sql](https://github.com/alejandro-davila/sql-challenge/blob/d18c47d12b8eb10854a441fb53891f1896296171/employees_schema.sql).
 
 <h1 align="center">3. Data Analysis</h1>
 
-After completing the importing process a Postgresql analysiss was perfomed and you can find the full query in this file [employees_query.mssql](https://github.com/alejandro-davila/sql-challenge/blob/397ca84083975a003b588a0ed5456ff1b0466a50/employees_query.mssql)  
+After completing the importing process a Postgresql analysiss was perfomed and you can find the full query in this file [employees_query.sql](https://github.com/alejandro-davila/sql-challenge/blob/397ca84083975a003b588a0ed5456ff1b0466a50/employees_query.sql)  
 
 The analysis query was executed and subsequently presented in the following formats:
 
