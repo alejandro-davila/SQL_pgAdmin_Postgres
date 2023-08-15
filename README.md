@@ -30,7 +30,7 @@ For a direct view of the detailed schema file, you can access it via the followi
 
 <h1 align="center">3. Data Analysis</h1>
 
-After completing the importing process a Postgresql analysiss was perfomed and you can find the full query in this file employees_query.mssql   
+After completing the importing process a Postgresql analysiss was perfomed and you can find the full query in this file [employees_query.mssql](https://github.com/alejandro-davila/sql-challenge/blob/397ca84083975a003b588a0ed5456ff1b0466a50/employees_query.mssql)  
 
 The analysis query was executed and subsequently presented in the following formats:
 
